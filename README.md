@@ -1,4 +1,4 @@
-# ainta_presentations
+# ainta-presentations
 
 List of my presentations
 
